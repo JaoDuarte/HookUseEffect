@@ -16,7 +16,7 @@ Foi usado **Create React App**, **Hook useState**, **Hook useEffect**, Oque seri
 
  #### Link do tutorial de Diego Fernandes.
      https://www.youtube.com/watch?v=jcc9T-5inrk
-<img src="https://pbs.twimg.com/profile_images/1291682473592659968/sEorc6oh.jpg" width="200" />
+<img src="https://pbs.twimg.com/profile_images/1291682473592659968/sEorc6oh.jpg" width="400" />
 
 #### Descrição:
     
