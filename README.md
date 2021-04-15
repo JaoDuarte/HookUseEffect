@@ -1,8 +1,8 @@
-#O que se trata?
+# O que se trata?
 
 Se trata em mostrar os números em ordem crescente. Nele contêm um botão **adiconar**, ao você clicar em **adicionar** ele aumenta de número, e conforme os números vão passando, no lugar de **document.title** "React App", eles são exibidos conforme você clica. Caso você deixe ausente por 5 segundos, ele voltará ao title principal **React App**.
 
-##O que foi usado?
+## O que foi usado?
 
 Foi usado **Create React App**, **Hook useState**, **Hook useEffect**, Oque seria cada um?
 
