@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/71887974/110981381-d4235700-8345-11eb-9d0b-4c5f07a7338d.png" alt="Imagem do Create React APP" width="1000" />
 # O que se trata?
 
 Se trata em mostrar os números em ordem crescente. Nele contêm um botão **adiconar**, ao você clicar em **adicionar** ele aumenta de número, e conforme os números vão passando, no lugar de **document.title** "React App", eles são exibidos conforme você clica. Caso você deixe ausente por 5 segundos, ele voltará ao title principal **React App**.
@@ -12,10 +13,13 @@ Foi usado **Create React App**, **Hook useState**, **Hook useEffect**, Oque seri
 
 ## Fonte
 
- ### Link do tutorial de Diego Fernandes, qual eu fiz.
+ #### Link do tutorial de Diego Fernandes.
      https://www.youtube.com/watch?v=jcc9T-5inrk
 <img src="https://pbs.twimg.com/profile_images/1291682473592659968/sEorc6oh.jpg" width="200" />
 
-### Descrição:
-    Os Hooks permitem o uso do state sem a necessidade de ter uma classe. Com o Hook de Efeito, ou useEffect,  podemos operar efeitos colaterais durante a renderização do nosso       componente.
+#### Descrição:
+    
+   Os Hooks permitem o uso do state sem a necessidade de ter uma classe. Com o Hook de Efeito, ou useEffect,  podemos operar efeitos colaterais durante a renderização do nosso    componente.
+    
+   
 
